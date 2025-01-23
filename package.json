@@ -13,14 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Kittiya66160018/Portfolio-team/issues"
   },
   "homepage": "https://github.com/Kittiya66160018/Portfolio-team#readme",
   "devDependencies": {
-    "autoprefixer": "^10.4.20",
-    "husky": "^4.3.8",
-    "postcss": "^8.5.1",
-    "tailwindcss": "^4.0.0"
+    "autoprefixer": "^9.8.8",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   }
 }
